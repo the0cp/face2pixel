@@ -16,3 +16,19 @@ pip install -m requirements.txt
 ```shell
 python main.py
 ```
+
+## Requirements:
+- opencv-python
+- numpy
+- tqdm
+- glob
+
+## Based on
+- Python 3.9.6
+- Tiler: https://github.com/nuno-faria/tiler
+
+## Screenshots
+### Before:   
+![BEFORE](https://github.com/theodorecooper/face2pixel/blob/main/screenshots/Bram_Cohen.jpg)   
+### After:   
+![AFTER](https://github.com/theodorecooper/face2pixel/blob/main/screenshots/Bram_Cohen.png)
