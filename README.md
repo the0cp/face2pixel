@@ -11,8 +11,8 @@ git clone https://github.com/theodorecooper/face2pixel
 ```shell
 pip install -m requirements.txt
 ```
-3. Put pictures to `imgs/` folder
-4. run the `main.py`, the output images will be stored in `output/`.
+3. Put pictures(*.jpg) to `imgs/` folder
+4. run the `main.py`, the output images will be stored in `output/`(*.png).
 ```shell
 python main.py
 ```
